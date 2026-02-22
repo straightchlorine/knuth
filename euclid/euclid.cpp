@@ -18,7 +18,6 @@ int Euclid::solve(int m, int n) {
   }
 
   // E1
-  int d = m / n;
   r = m % n;
 
   // E2

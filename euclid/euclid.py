@@ -21,7 +21,6 @@ class Euclid:
             n = t
 
         # E1
-        div = m // n
         self.r = m % n
 
         # E2

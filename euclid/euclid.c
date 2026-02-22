@@ -10,7 +10,6 @@ int solve(int m, int n) {
   }
 
   // E1
-  int d = m / n;
   int r = m % n;
 
   // E2
